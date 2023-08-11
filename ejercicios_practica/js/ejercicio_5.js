@@ -15,6 +15,19 @@
 //    me trae mas suerte que el numero 
 //    13
 
-/* ELIMINE ESTE COMENTARIO
+
 let textoNumero = "El numero";
-*/
+
+console.log(textoNumero)
+
+textoNumero = 7
+
+console.log(textoNumero)
+
+textoNumero = "me trae más suerte que el número"
+
+console.log(textoNumero)
+
+textoNumero = 13
+
+console.log(textoNumero)
